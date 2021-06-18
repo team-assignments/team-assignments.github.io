@@ -1,51 +1,56 @@
 ## Summary
 
-Replace this paragraph with one or more paragraphs summarizing the purpose and operation of the software you propose to develop in this project.
+Team Assignments provides a visual representation of assignments that need to be completed by a group and allows members to claim them. Ideally, we implement a tracker/leaderboard allowing users to see who contributes the most. Not only does this allow the team leader to manage the busy itinerary, but provides incentive for members to be as productive as possible. 
 
 ## Intended users
 
-Write a bullet list here, including at least 2 different types of intended users. Make it reasonably specific; simply saying "Anyone who likes games" (for example) is not sufficiently specific.
+> As a project manager who is managing multiple employees in multiple groups, I want to use the Team Assignments App so that I can ensure all our daily tasks are complete every day.
 
-For each type of intended user, include at least 1 _user story_. A user story is usually just 1 simple sentence (no more than 2 sentences), in the voice of the intended user, stating a specific task that the user performs using the app, and the benefit that will be obtained. The simplest user stories take the form 
-
-> As a <type of intended user (_who_)> I want to <use of feature use or functionality (_what_)> so that <benefit (_why_).
-
-Please avoid writing too much for the user story. In particular, if the way the user story is written makes it difficult to see the _who_, _what_, and _why_, then you probably need to re-write it more directly. (On the other hand, a user story should not simply be a re-statement of the intended user description.)
-
-Here is one (silly) example of an intended user, along with a user story. Please note not only the conceptual structure, but the Markdown syntax used.
-
-* People who like to use randomness in their decision making.
-
-    > As someone who enjoys randomness in my life, I need an app that lets me flip a virtual coin or roll one or more virtual dice, so that I can base my decisions on randomness, without having to carry coins or dice in my pockets.
+> As a single parent who isn't always home to enforce chores, I want to use the Team Assignments Apps leaderboard so that I can ensure my kids are equally sharing the work amongst one another.
 
 ## Client component
 
 ### Functionality
 
-List the key functional aspects that will be provided by the user interface---i.e. tell us what the user will be able to do in the GUI.
+After downloading the application you are prompted to sign in using your google id, this will be used to identify the users moving forward. After signing in the application will load up the home screen. At the home screen the user can attempt to join a group id or build their own group. Assuming our user wants to build their own group, they will be automatically identified as the group leader (in our Intended User Examples the project manager or single parent would be the group leader). Once inside the group they will have three options: Add / Remove Tasks (visible only to the leader), View / Claim My Tasks, or View Team Overview. From there each option will perform as described above. 
 
 ### Persistent data
 
-List the content that will be stored on the client side. This should include any information that a user of your system should expect to be maintained locally (i.e. without connection to a server) across multiple sessions of use, on a single device. 
+The option to save whatever tasks you have claimed while connected to the network will be useful. This way in the case that you become disconnected, you can still see them. 
     
 ### Device/external services
 
-If the client component will need to access special services of the device (e.g. sensors, contacts, messaging), list them here. Also, if the client component will need to access already-existing external services (e.g. real-time weather data, Open Trivia Database), those should also be listed here; any such references to external services should include links to the main page or API description page for the service.
+Access to google sign in will be important as that will create a uniform profile for each user in the application. 
     
 ## Server component
 
 ### Functionality
 
-List the key functional aspects that will be provided by the server component---i.e. tell us what parts of the system functionality will be performed by the server.
+The server will perform the following functional aspects: 
+* Registered Users
+* Maintain the group
+    * Verify the group. 
+    * Verify who is registered in each group.
+    * Verify what assignments are currently available for pickup. 
+    * Confirm what assignments have already been picked up by individual member. 
+    * Provide data on how much each member contributes. 
+* Current Time (to identify when each cycle should end / reset)
 
 ### Persistent data
 
-List the content that will be stored on the server side. This should include any information that a user of your system should expect to be accessible across multiple sessions of use, even if accessed from separate devices. In addition, if there will be data originating from some users that will then be accessible by other users, it should be part of the persistent data on the server. 
-    
+The server will keep a record of everything listed:
+* Registered Users
+* Group Data
+    * Users registered to group.
+    * Assignments the leader has assigned to group.
+    * Specific assignments members have claimed.
+    * Data involved with tracking how often each member contributes.
+* Current Time (to identify when each cycle should end / reset)
+
 ### External services
 
-If the server component will need to access already-existing external services (e.g. stock prices, Open Movie Database), those should also be listed here. Any such references to external services should include links to the main page or API description page for the service.
+N/A
     
 ## Stretch goals/possible enhancements 
 
-If you can identify functional elements of the software that you think might not be achievable in the scope of the project, but which would nonetheless add significant value if you were able to include them, list them here. For now, we recommend listing them in order of complexity/amount of work, from the least to the most.
+TBD - None at this time, however open to suggestion from the build team. 
