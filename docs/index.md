@@ -48,8 +48,7 @@ The server will perform the following functional aspects:
     * Verify who is registered in each group.
     * Verify what assignments are currently available for pickup. 
     * Confirm what assignments have already been picked up by individual member. 
-    * Provide data on how much each member contributes. 
-* Current Time (to identify when each cycle should end / reset)
+    * Provide data on how much each member contributes.
 
 ### Persistent Data
 
