@@ -3,16 +3,31 @@
 Team Assignments provides a visual representation of assignments that need to be completed by a group and allows members to claim them. Ideally, we implement a tracker/leaderboard allowing users to see who contributes the most. Not only does this allow the team leader to manage the busy itinerary, but provides incentive for members to be as productive as possible. 
 
 ## Intended Users
+> Managers of teams responsible for completing several tasks each day.
+>> As a project manager who is managing multiple employees in multiple groups, I want to use the Team Assignments App so that I can ensure all our daily tasks are complete every day.
 
-> As a project manager who is managing multiple employees in multiple groups, I want to use the Team Assignments App so that I can ensure all our daily tasks are complete every day.
-
-> As a single parent who isn't always home to enforce chores, I want to use the Team Assignments Apps leaderboard so that I can ensure my kids are equally sharing the work amongst one another.
+> Single parents who want to remove the headache in balancing chores between their children. 
+>> As a single parent who isn't always home to enforce chores, I want to use the Team Assignments Apps leaderboard so that I can ensure my kids are equally sharing the work amongst one another.
 
 ## Client Component
 
 ### Functionality
 
-After downloading the application you are prompted to sign in using your google id, this will be used to identify the users moving forward. After signing in the application will load up the home screen. At the home screen the user can attempt to join a group id or build their own group. Assuming our user wants to build their own group, they will be automatically identified as the group leader (in our Intended User Examples the project manager or single parent would be the group leader). Once inside the group they will have three options: Add / Remove Tasks (visible only to the leader), View / Claim My Tasks, or View Team Overview. From there each option will perform as described above. 
+
+* User prompted to sign in using their Google ID.
+  * Google ID will be used to distinguish users in the server. 
+  * Google ID provides personality to the application. 
+* Home screen allows users to build their own group. 
+  * This user will be automatically identified as group leader. 
+    * Group leader may exclusively Add / Remove Tasks.
+    * Group leader otherwise shares the same capabilities as a group member. 
+* Home screen also allows users to join an already established group. 
+  * This user will be automatically identified as a group member. 
+    * Group members may claim new tasks. 
+    * Group members may view their already claimed tasks. 
+* Inside a selected group, all users may view the Team Overview. 
+  * List of all tasks and whom it was claimed by with timestamps. 
+  * A leaderboard showcasing which member contributes the most or least.
 
 ### Persistent Data
 
@@ -45,7 +60,11 @@ The server will keep a record of everything listed:
     * Assignments the leader has assigned to group.
     * Specific assignments members have claimed.
     * Data involved with tracking how often each member contributes.
-* Current Time (to identify when each cycle should end / reset)
+
+### Transient Data
+
+* Current Time
+
 
 ### External Services
 
