@@ -1,3 +1,10 @@
+---
+title: Summary
+subtitle: "Lists assignments that need to be completed by a group, and allows members to claim them."
+menu: Summary
+order: 10
+---
+
 ## Summary
 
 Team Assignments provides a visual representation of assignments that need to be completed by a group and allows members to claim them. Ideally, we implement a tracker/leaderboard allowing users to see who contributes the most. Not only does this allow the team leader to manage the busy itinerary, but provides incentive for members to be as productive as possible. 
@@ -72,3 +79,5 @@ N/A
 ## Stretch goals/possible enhancements 
 
 TBD - None at this time, however open to suggestion from the build team. 
+
+## [ERD](erd.md)
