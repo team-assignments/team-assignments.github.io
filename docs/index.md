@@ -42,7 +42,8 @@ The option to save whatever tasks you have claimed while connected to the networ
     
 ### Device/External Services
 
-Access to google sign in will be important as that will create a uniform profile for each user in the application. 
+Access to google sign in will be important as that will create a uniform profile for each user in the application.
+[Google Id API](https://developers.google.com/identity/sign-in/web/sign-in)
     
 ## Server Component
 

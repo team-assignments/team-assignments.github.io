@@ -7,4 +7,4 @@ order: 30
 
 ## Entity Relationship Diagram
 
-[![Entity Relationship Diagram](img/erd.png)](pdf/capstone-erd.pdf)
+[![Entity Relationship Diagram](img/capstone-erd.png)](pdf/capstone-erd.pdf)
