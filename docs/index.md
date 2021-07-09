@@ -42,8 +42,9 @@ The option to save whatever tasks you have claimed while connected to the networ
     
 ### Device/External Services
 
-Access to google sign in will be important as that will create a uniform profile for each user in the application.
-[Google Id API](https://developers.google.com/identity/sign-in/web/sign-in)
+* Access to google sign in will be important as that will create a uniform profile for each user in the application.
+  * Google Id will be used as authentication by the app.
+  * [Google Id API](https://developers.google.com/identity/sign-in/web/sign-in)
     
 ## Server Component
 
@@ -67,10 +68,6 @@ The server will keep a record of everything listed:
     * Assignments the leader has assigned to group.
     * Specific assignments members have claimed.
     * Data involved with tracking how often each member contributes.
-
-### Transient Data
-
-* Current Time
 
 
 ### External Services
