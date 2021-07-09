@@ -44,6 +44,7 @@ The option to save whatever tasks you have claimed while connected to the networ
 
 * Access to google sign in will be important as that will create a uniform profile for each user in the application.
   * Google Id will be used as authentication by the app.
+  * In the even there is a short term service interruption with Google, access to the app could be interrupted for up to an hour.  
   * [Google Id API](https://developers.google.com/identity/sign-in/web/sign-in)
     
 ## Server Component
