@@ -13,10 +13,10 @@ Once a user has created a group they are the owner of that group and are then ab
 
 ## Intended Users
  Managers of teams responsible for completing several tasks each day.
->> As a project manager who is managing multiple employees in multiple groups, I want to use the Team Assignments App so that I can ensure all our daily tasks are complete every day.
+> As a project manager who is managing multiple employees in multiple groups, I want to use the Team Assignments App so that I can ensure all our daily tasks are complete every day.
 
  Single parents who want to remove the headache in balancing chores between their children. 
->> As a single parent who isn't always home to enforce chores, I want to use the Team Assignments Apps leaderboard so that I can ensure my kids are equally sharing the work amongst one another.
+> As a single parent who isn't always home to enforce chores, I want to use the Team Assignments Apps leaderboard so that I can ensure my kids are equally sharing the work amongst one another.
 
 ## Client Component
 
