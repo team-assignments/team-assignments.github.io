@@ -83,6 +83,8 @@ TBD - None at this time, however open to suggestion from the build team.
 
 ## [ERD](erd.md)
 
+## [Wireframe](wireframe.md)
+
 ## Team Members
 * Jonathan Rodrigues
 * Dagoberto Garcia
