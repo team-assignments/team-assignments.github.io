@@ -7,13 +7,15 @@ order: 10
 
 ## Summary
 
-Team Assignments provides a visual representation of assignments that need to be completed by a group and allows members to claim them. Ideally, we implement a tracker/leaderboard allowing users to see who contributes the most. Not only does this allow the team leader to manage the busy itinerary, but provides incentive for members to be as productive as possible. 
+Team assignments provides a convenient tracking system for tasks that need to be completed within a group. Team leaders are able to assign tasks to group members and approve task completion reports.
+
+Once a user has created a group they are the owner of that group and are then able to invite others to join that group. The group owner can then create tasks within that group and assign those tasks to group members. Group members have the ability to report tasks they have been assigned as completed. All completed reports will then be available for review by group owners.
 
 ## Intended Users
-> Managers of teams responsible for completing several tasks each day.
+ Managers of teams responsible for completing several tasks each day.
 >> As a project manager who is managing multiple employees in multiple groups, I want to use the Team Assignments App so that I can ensure all our daily tasks are complete every day.
 
-> Single parents who want to remove the headache in balancing chores between their children. 
+ Single parents who want to remove the headache in balancing chores between their children. 
 >> As a single parent who isn't always home to enforce chores, I want to use the Team Assignments Apps leaderboard so that I can ensure my kids are equally sharing the work amongst one another.
 
 ## Client Component
@@ -80,3 +82,8 @@ N/A
 TBD - None at this time, however open to suggestion from the build team. 
 
 ## [ERD](erd.md)
+
+## Team Members
+* Jonathan Rodrigues
+* Dagoberto Garcia
+* Marshall Eldridge
