@@ -11,4 +11,4 @@ order: 50
 
 ## [Data Access Object (DAO) Interfaces](https://github.com/team-assignments/service/tree/main/src/main/java/edu/cnm/deepdive/teamassignmentsservice/model/dao)
 
-## [Data Definition Language(DDL)](ddl.md)
+## [Data Definition Language(DDL)](ddl.sql)
