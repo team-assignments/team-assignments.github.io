@@ -11,7 +11,7 @@ titles_from_headings:
 title: "Team Assignments"                # Write the project title inside the quotes.
 description: "Lists assignments that need to be completed by a group, and allows members to claim them."  # Write the project description inside the quotes
 author:                                  # Don't do anything with this line!
-  name: "Marshall Eldridge, Jonathan Rodrigues, Dagoberto Garcia"             # Write your name inside the quotes.
+  name: "Marshall Eldridge, Jonathan Rodrigues, Dagoberto Garcia, Lee Scroggins"             # Write your name inside the quotes.
 
 # Do not modify the following line!
   copyright: true  

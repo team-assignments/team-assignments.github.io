@@ -5,10 +5,28 @@ menu: Data Model
 order: 50
 ---
 
-## [Entity Relationship Diagram](erd.md)
+# Application
 
-## [Entity Classes](https://github.com/team-assignments/service/tree/main/src/main/java/edu/cnm/deepdive/teamassignmentsservice/model/entity)
+## [Controller Classes](https://github.com/team-assignments/team-assignments-android/tree/main/app/src/main/java/edu/cnm/deepdive/teamassignmentsandroid/controller)
 
-## [Data Access Object (DAO) Interfaces](https://github.com/team-assignments/service/tree/main/src/main/java/edu/cnm/deepdive/teamassignmentsservice/model/dao)
+## [Model Classes](https://github.com/team-assignments/team-assignments-android/tree/main/app/src/main/java/edu/cnm/deepdive/teamassignmentsandroid/model)
+
+## [Service Classes](https://github.com/team-assignments/team-assignments-android/tree/main/app/src/main/java/edu/cnm/deepdive/teamassignmentsandroid/service)
+
+## [Viewmodel Classes](https://github.com/team-assignments/team-assignments-android/tree/main/app/src/main/java/edu/cnm/deepdive/teamassignmentsandroid/viewmodel)
+
+
+# Service
+
+## [Configuration](https://github.com/team-assignments/service/tree/main/src/main/java/edu/cnm/deepdive/teamassignments/configuration)
+
+## [Controller Classes](https://github.com/team-assignments/service/tree/main/src/main/java/edu/cnm/deepdive/teamassignments/controller)
+
+## [DAO Classes](https://github.com/team-assignments/service/tree/main/src/main/java/edu/cnm/deepdive/teamassignments/model/dao)
+
+## [Entity Classes](https://github.com/team-assignments/service/tree/main/src/main/java/edu/cnm/deepdive/teamassignments/model/entity)
+
+## [Service Classes](https://github.com/team-assignments/service/tree/main/src/main/java/edu/cnm/deepdive/teamassignments/service)
 
 ## [Data Definition Language(DDL)](ddl.md)
+
