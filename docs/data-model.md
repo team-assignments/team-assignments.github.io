@@ -5,7 +5,7 @@ menu: Data Model
 order: 50
 ---
 
-# Application
+# [Application](https://github.com/team-assignments/team-assignments-android)
 
 ## [Controller Classes](https://github.com/team-assignments/team-assignments-android/tree/main/app/src/main/java/edu/cnm/deepdive/teamassignmentsandroid/controller)
 
@@ -16,7 +16,7 @@ order: 50
 ## [Viewmodel Classes](https://github.com/team-assignments/team-assignments-android/tree/main/app/src/main/java/edu/cnm/deepdive/teamassignmentsandroid/viewmodel)
 
 
-# Service
+# [Service](https://github.com/team-assignments/service)
 
 ## [Configuration](https://github.com/team-assignments/service/tree/main/src/main/java/edu/cnm/deepdive/teamassignments/configuration)
 
