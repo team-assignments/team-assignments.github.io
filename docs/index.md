@@ -85,7 +85,16 @@ TBD - None at this time, however open to suggestion from the build team.
 
 ## [Wireframe](wireframe.md)
 
-## Team Members
-* Jonathan Rodrigues
-* Dagoberto Garcia
-* Marshall Eldridge
+## Team Roster
+
+### Jonathan Rodrigues
+[E-mail](jonrodrigues24@gmail.com)
+[GitHub](https://jonrodrigues24.github.io/)
+
+### Dagoberto Garcia
+
+### Marshall Eldridge
+
+### Lee Scroggins
+[E-mail](lee_scroggins@yahoo.com)
+[GitHub](https://github.com/lee-scroggins) ns
