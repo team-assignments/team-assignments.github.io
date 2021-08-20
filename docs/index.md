@@ -98,9 +98,9 @@ TBD - None at this time, however open to suggestion from the build team.
 [GitHub](https://github.com/wyldus)
 
 ### Marshall Eldridge
-[E-mail](l2matshall@gmail.com)
+[E-mail](l2marshall@gmail.com)
 [GitHub](https://github.com/marshalleldridge)
 
 ### Lee Scroggins
 [E-mail](lee_scroggins@yahoo.com)
-[GitHub](https://github.com/lee-scroggins) ns
+[GitHub](https://github.com/lee-scroggins)
