@@ -1,5 +1,6 @@
 ```sqlite
-create sequence hibernate_sequence start with 1 increment by 1;
+create
+sequence hibernate_sequence start with 1 increment by 1;
 create table group_team
 (
     group_id      bigint       not null,
@@ -19,7 +20,7 @@ create table task
     user_id            bigint,
     primary key (task_id)
 );
-create table user_group
+create table user_group_relationship
 (
     group_id bigint not null,
     user_id  bigint not null,
@@ -36,8 +37,8 @@ create table user_profile
 );
 alter table group_team
     add constraint UK_esbaurrhfbmhgc2bcdftusio5 unique (name);
-create
-unique index UK7tp6jirbig19oxna6gwqanvkj on user_profile (display_name);
+alter table user_profile
+    add constraint UK_j35xlx80xoi2sb176qdrtoy69 unique (display_name);
 alter table user_profile
     add constraint UK_6f815wi5o4jq8p1q1w63o4mhd unique (oauth_key);
 alter table group_team
@@ -46,9 +47,10 @@ alter table task
     add constraint FKhdg487k7o9qdoy40g01xeuvd4 foreign key (group_id) references group_team;
 alter table task
     add constraint FK8pjfc87le6wgda5b2r29gpdbf foreign key (user_id) references user_profile;
-alter table user_group
-    add constraint FKlwrp57w1uwa5uklyto7oppa40 foreign key (user_id) references user_profile;
-alter table user_group
-    add constraint FKgvw81e1x8bxadg1fox1xbqb95 foreign key (group_id) references group_team;
+alter table user_group_relationship
+    add constraint FKqiw3kl1f3v9fddi2wouvev0x8 foreign key (user_id) references user_profile;
+alter table user_group_relationship
+    add constraint FKejheyx329bht9f9yb2xw8bner foreign key (group_id) references group_team;
+
 ```
 [`ddl.sql](sql/ddl.sql)
