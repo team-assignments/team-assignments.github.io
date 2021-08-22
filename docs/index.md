@@ -74,12 +74,8 @@ The server will keep a record of everything listed:
 
 
 ### External Services
+* Google Sign in Services
 
-N/A
-    
-## Stretch goals/possible enhancements 
-
-TBD - None at this time, however open to suggestion from the build team. 
 
 ## [ERD](erd.md)
 
@@ -101,4 +97,29 @@ TBD - None at this time, however open to suggestion from the build team.
 
 ### Lee Scroggins
 [E-mail](lee_scroggins@yahoo.com)
-[GitHub](https://github.com/lee-scroggins) ns
+[GitHub](https://github.com/lee-scroggins) 
+
+## Current State of Project
+
+### Current State
+* The Team Assignments application can name a Group and add it to the database.  The Groups will populate the spinner on the Management Tab.
+* A Task can be added to the database.
+
+### Unimplemented
+* The Home Tab display is empty.
+* The Management Tab Add Member, Delete Group, and Delete Member buttons do no function.
+* Created Tasks cannot be assigned to a Group.
+* Members cannot be assigned to a Group.
+
+### Bugs
+* The app will crash if a Group or Task has not been cleared from the application, and it has been deleted from the server and is selected on the app.
+* In Add Task, if the Task Title input is selected, the keyboard cannot be dropped to access the description box or the calendar spinners.
+
+### Aesthetic Plans
+* UI design themes for color.
+* Shading for buttons.
+
+### Stretch Goals
+* Add icons to Groups.
+* Add High, Medium, Low Priority buttons for Tasks.
+
