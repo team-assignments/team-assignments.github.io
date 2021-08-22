@@ -30,3 +30,5 @@ order: 50
 
 ## [Data Definition Language(DDL)](ddl.md)
 
+## [licensing]()
+

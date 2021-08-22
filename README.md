@@ -4,7 +4,7 @@ This is a project template for the proposal phase of the capstone project in the
 
 ## Source Code
 
-Copyright [2021] [Marshall Eldridge, Jonathan Rodrigues, Dagoberto Garcia, Lee Scroggins]
+Copyright 2021 Marshall Eldridge, Jonathan Rodrigues, Dagoberto Garcia, Lee Scroggins
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
