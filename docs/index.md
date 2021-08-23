@@ -92,7 +92,7 @@ jonrodrigues24@gmail.com
 [GitHub](https://github.com/wyldus)
 
 ### Marshall Eldridge
-l2matshall@gmail.com
+l2marshall@gmail.com
 [GitHub](https://github.com/marshalleldridge)
 
 ### Lee Scroggins
