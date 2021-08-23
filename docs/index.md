@@ -81,7 +81,7 @@ The server will keep a record of everything listed:
 
 ## [Wireframe](wireframe.md)
 
-## [PDF Overview](PDFOverview.pdf)
+## [PDF Overview](pdf/PDFOverview.pdf)
 
 ## Team Roster
 
