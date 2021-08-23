@@ -114,6 +114,7 @@ lee_scroggins@yahoo.com
 ### Bugs
 * The app will crash if a Group or Task has not been cleared from the application, and it has been deleted from the server and is selected on the app.
 * In Add Task, if the Task Title input is selected, the keyboard cannot be dropped to access the description box or the calendar spinners.
+* In order to populate the groups on the home screen you must close and reopen the app, in order to populate the groups on the management tab you must switch to the home tab and back to the management tab. 
 
 ### Aesthetic Plans
 * UI design themes for color.
