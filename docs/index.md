@@ -85,18 +85,18 @@ The server will keep a record of everything listed:
 ## Team Roster
 
 ### Jonathan Rodrigues
-[E-mail](jonrodrigues24@gmail.com)
+jonrodrigues24@gmail.com
 [GitHub](https://jonrodrigues24.github.io/)
 
 ### Dagoberto Garcia
 [GitHub](https://github.com/wyldus)
 
 ### Marshall Eldridge
-[E-mail](l2matshall@gmail.com)
+l2matshall@gmail.com
 [GitHub](https://github.com/marshalleldridge)
 
 ### Lee Scroggins
-[E-mail](lee_scroggins@yahoo.com)
+lee_scroggins@yahoo.com
 [GitHub](https://github.com/lee-scroggins) 
 
 ## Current State of Project
