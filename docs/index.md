@@ -7,9 +7,11 @@ order: 10
 
 ## Summary
 
-Team assignments provides a convenient tracking system for tasks that need to be completed within a group. Team leaders are able to assign tasks to group members and approve task completion reports.
+Team assignments provides a convenient tracking system for tasks that need to be completed within a group. Team leaders are able to assign tasks to group members and approve task completion reports. This app allows for time optimization when a team has multiple simultaneous tasks in need of completion.
 
-Once a user has created a group they are the owner of that group and are then able to invite others to join that group. The group owner can then create tasks within that group and assign those tasks to group members. Group members have the ability to report tasks they have been assigned as completed. All completed reports will then be available for review by group owners.
+Once a user has created a group they are designated as the owner of that group. Group Owners are able to add other users to their groups. Group owners can also create tasks within their groups allowing all group members to see and work towards completion of those tasks.
+
+The creation of the Team Assignments app allowed for the exploration of various interactions between client and service applications. There were complex relationships between the entities in the project that were interesting puzzles to investigate. As a team we felt that this app would have value in a wide range of applications, from Parents assigning chores for their children all the way up to multi-team corporations looking for a wy to optimize workflow.
 
 ## Intended Users
  Managers of teams responsible for completing several tasks each day.
@@ -75,6 +77,7 @@ The server will keep a record of everything listed:
 
 ### External Services
 * Google Sign in Services
+
 
 
 ## [ERD](erd.md)
