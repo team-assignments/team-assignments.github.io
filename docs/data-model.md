@@ -18,6 +18,8 @@ order: 50
 
 # [Service](https://github.com/team-assignments/service)
 
+## [Entity Relationship Diagram](img/erd.png)
+
 ## [Configuration](https://github.com/team-assignments/service/tree/main/src/main/java/edu/cnm/deepdive/teamassignments/configuration)
 
 ## [Controller Classes](https://github.com/team-assignments/service/tree/main/src/main/java/edu/cnm/deepdive/teamassignments/controller)
