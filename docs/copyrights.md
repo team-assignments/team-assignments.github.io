@@ -2,7 +2,7 @@
 title: Copyrights & Licenses
 subtitle: "Copyrights & Licenses"
 menu: Licenses
-order:80
+order: 80
 ---
 
 ### TeamAssignments
