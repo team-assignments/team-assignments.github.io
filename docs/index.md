@@ -1,7 +1,7 @@
 ---
 title: Summary
 subtitle: "Lists assignments that need to be completed by a group, and allows members to claim them"
-menu: Summary
+menu: Home
 order: 10
 ---
 
@@ -79,12 +79,7 @@ The server will keep a record of everything listed:
 * Google Sign in Services
 
 
-
-## [ERD](erd.md)
-
-## [Wireframe](wireframe.md)
-
-## [PDF Overview](pdf/PDFOverview.pdf)
+## [Overview](pdf/PDFOverview.pdf)
 
 ## Team Roster
 
