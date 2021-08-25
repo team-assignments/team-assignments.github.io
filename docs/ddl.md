@@ -55,4 +55,4 @@ alter table user_group_relationship
     add constraint FKejheyx329bht9f9yb2xw8bner foreign key (group_id) references group_team;
 
 ```
-[`ddl.sql](sql/ddl.sql)
+[ddl.sql](sql/ddl.sql)
