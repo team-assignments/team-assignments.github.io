@@ -20,14 +20,13 @@ order: 60
         * Embedded Apache Derby database
         * Hibernate ORM
         * Custom entity classes
-        * Spring boot Data
+        * Spring Data JPA
         * Custom data repository interfaces
     * Service controllers
         * Spring MVC
         * Custom controller classes
     * View composition & serialization
         * Jackson JSON
-        * Custom view classes & interfaces
     * Authentication
         * Spring Security
         * Google Sign In (external service; see
