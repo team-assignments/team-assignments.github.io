@@ -2,6 +2,7 @@
 title: Summary
 subtitle: "Lists assignments that need to be completed by a group, and allows members to claim them"
 menu: Home
+icon: home
 order: 10
 ---
 
