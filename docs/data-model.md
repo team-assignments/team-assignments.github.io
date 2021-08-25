@@ -1,6 +1,6 @@
 ---
 title: Data Model
-subtitle: "Links to data model related classes."
+subtitle: "Links to data model related classes"
 menu: Data Model
 order: 50
 ---

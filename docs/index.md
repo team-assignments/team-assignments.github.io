@@ -1,6 +1,6 @@
 ---
 title: Summary
-subtitle: "Lists assignments that need to be completed by a group, and allows members to claim them."
+subtitle: "Lists assignments that need to be completed by a group, and allows members to claim them"
 menu: Summary
 order: 10
 ---

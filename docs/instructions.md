@@ -1,7 +1,8 @@
 ---
 title: Instructions
+subtitle: "Instruction to build the Application"
 menu: Instructions
-order: 100
+order: 70
 ---
 
 ## Build Instructions

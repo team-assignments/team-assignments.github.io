@@ -1,6 +1,6 @@
 ---
 title: Technology Inventory
-subtitle: "Inventory of Technology used on front end and back end."
+subtitle: "Inventory of Technology used on front end and back end"
 menu: Technology
 order: 60
 ---
