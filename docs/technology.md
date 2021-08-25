@@ -64,8 +64,4 @@ order: 60
   
 * Formatting and UI
     * Custom images
-      
-
-## Copyrights
-
-[copyrights](copyrights.md)
+    
