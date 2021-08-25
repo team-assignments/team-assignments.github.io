@@ -6,6 +6,7 @@ menu: Summary order: 70
 
 Apache License Version 2.0, January 2004
 https://www.apache.org/licenses/
+
 Copyright 2021 Dagoberto Garcia, Lee Scroggins, Marshall Eldridge, Jonathan Rodrigues
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in
