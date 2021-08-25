@@ -1,6 +1,6 @@
 
 
-## TeamAssignments
+### TeamAssignments
 
 #### Copyright 2021 Marshall Eldridge, Dagoberto Garcia, Jonathan Rodrigues, Lee Scroggins
 
@@ -14,7 +14,7 @@ distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, e
 implied. See the License for the specific language governing permissions and limitations under the
 License.
 
-## Android Support Libraries, Google Material Design library, Google Gson Library, Room Library
+### Android Support Libraries, Google Material Design library, Google Gson Library, Room Library
 
 #### Copyright 2009-2021 Android Open Source Project aosp,
 
@@ -28,7 +28,7 @@ distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, e
 implied. See the License for the specific language governing permissions and limitations under the
 License.
 
-## ReactiveX RxJava2 library
+### ReactiveX RxJava2 library
 
 #### Copyright (c) 2016-present, RxJava Contributors.
 
@@ -42,7 +42,7 @@ distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, e
 implied. See the License for the specific language governing permissions and limitations under the
 License.
 
-## SquareUp Retrofit2, OkHttp3 libraries
+### SquareUp Retrofit2, OkHttp3 libraries
 
 #### Copyright 2013-2019 Square, Inc.
 
@@ -56,7 +56,7 @@ distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, e
 implied. See the License for the specific language governing permissions and limitations under the
 License
 
-## Facebook Stetho Library
+### Facebook Stetho Library
 
 #### Copyright (c) Facebook, Inc. and its affiliates.
 
@@ -79,13 +79,13 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FO
 OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Hibernate ORM
+### Hibernate ORM
 
 #### Copyright 2021 Red Hat Inc.
 
 Licensed under the GNU Lesser General Public Library, version 2.1. You can find a copy of this license at https://www.gnu.org/licenses/lgpl-2.1.en.html
 
-## Spring Framework, Spring Boot, Spring Data, Spring HATEOAS, Spring REST Docs
+### Spring Framework, Spring Boot, Spring Data, Spring HATEOAS, Spring REST Docs
 
 #### Copyright 2012-2021 the original author or authors.
 
