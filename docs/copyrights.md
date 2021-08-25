@@ -1,10 +1,4 @@
 
----
-title: Copyrights
-subtitle: "Copyrights for libraries used."
-menu: Copyrights
-order: 110
----
 
 ## TeamAssignments
 
