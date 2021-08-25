@@ -68,4 +68,4 @@ order: 60
 
 ## Copyrights
 
-[copyrights](/copyrights.md)
+[copyrights](copyrights.md)
