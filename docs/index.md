@@ -7,9 +7,11 @@ order: 10
 
 ## Summary
 
-Team assignments provides a convenient tracking system for tasks that need to be completed within a group. Team leaders are able to assign tasks to group members and approve task completion reports.
+Team assignments provides a convenient tracking system for tasks that need to be completed within a group. Team leaders are able to assign tasks to group members and approve task completion reports. This app allows for time optimization when a team has multiple simultaneous tasks in need of completion.
 
-Once a user has created a group they are the owner of that group and are then able to invite others to join that group. The group owner can then create tasks within that group and assign those tasks to group members. Group members have the ability to report tasks they have been assigned as completed. All completed reports will then be available for review by group owners.
+Once a user has created a group they are designated as the owner of that group. Group Owners are able to add other users to their groups. Group owners can also create tasks within their groups allowing all group members to see and work towards completion of those tasks.
+
+The creation of the Team Assignments app allowed for the exploration of various interactions between client and service applications. There were complex relationships between the entities in the project that were interesting puzzles to investigate. As a team we felt that this app would have value in a wide range of applications, from Parents assigning chores for their children all the way up to multi-team corporations looking for a wy to optimize workflow.
 
 ## Intended Users
  Managers of teams responsible for completing several tasks each day.
@@ -74,31 +76,55 @@ The server will keep a record of everything listed:
 
 
 ### External Services
+* Google Sign in Services
 
-N/A
-    
-## Stretch goals/possible enhancements 
 
-TBD - None at this time, however open to suggestion from the build team. 
 
 ## [ERD](erd.md)
 
 ## [Wireframe](wireframe.md)
 
+## [PDF Overview](pdf/PDFOverview.pdf)
 
 ## Team Roster
 
 ### Jonathan Rodrigues
-[E-mail](jonrodrigues24@gmail.com)
+jonrodrigues24@gmail.com
 [GitHub](https://jonrodrigues24.github.io/)
 
 ### Dagoberto Garcia
 [GitHub](https://github.com/wyldus)
 
 ### Marshall Eldridge
-[E-mail](l2matshall@gmail.com)
+l2marshall@gmail.com
 [GitHub](https://github.com/marshalleldridge)
 
 ### Lee Scroggins
-[E-mail](lee_scroggins@yahoo.com)
-[GitHub](https://github.com/lee-scroggins) ns
+lee_scroggins@yahoo.com
+[GitHub](https://github.com/lee-scroggins) 
+
+## Current State of Project
+
+### Current State
+* The Team Assignments application can name a Group and add it to the database.  The Groups will populate the spinner on the Management Tab.
+* A Task can be added to the database.
+
+### Unimplemented
+* The Home Tab display is empty.
+* The Management Tab Add Member, Delete Group, and Delete Member buttons do no function.
+* Created Tasks cannot be assigned to a Group.
+* Members cannot be assigned to a Group.
+
+### Bugs
+* The app will crash if a Group or Task has not been cleared from the application, and it has been deleted from the server and is selected on the app.
+* In Add Task, if the Task Title input is selected, the keyboard cannot be dropped to access the description box or the calendar spinners.
+* In order to populate the groups on the home screen you must close and reopen the app, in order to populate the groups on the management tab you must switch to the home tab and back to the management tab. 
+
+### Aesthetic Plans
+* UI design themes for color.
+* Shading for buttons.
+
+### Stretch Goals
+* Add icons to Groups.
+* Add High, Medium, Low Priority buttons for Tasks.
+

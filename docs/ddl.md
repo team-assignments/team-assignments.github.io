@@ -11,12 +11,14 @@ create table group_team
 );
 create table task
 (
-    task_id            bigint    not null,
-    completed          boolean   not null,
-    confirmed_complete boolean   not null,
+    task_id            bigint       not null,
+    completed          boolean      not null,
+    confirmed_complete boolean      not null,
+    description        varchar(1024),
     due_date           timestamp,
-    post_date          timestamp not null,
-    group_id           bigint    not null,
+    post_date          timestamp    not null,
+    title              varchar(100) not null,
+    group_id           bigint       not null,
     user_id            bigint,
     primary key (task_id)
 );
