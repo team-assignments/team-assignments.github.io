@@ -67,5 +67,5 @@ order: 60
     
 ## Javadocs
 
-* Client
-* [Server](apidocs/)
+* [Client](client/)
+* [Server](service/)
