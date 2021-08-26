@@ -93,17 +93,22 @@ The server will keep a record of everything listed:
 ### Unimplemented
 * Created Tasks cannot be assigned to a User.
 * Members cannot be assigned to a Group.
-* Tasks not yet confirmed as complete.
+* Mark tasks as complete.
+* Adding custom Group icons.
+* Priority buttons (high, medium, low).
 
 ### Bugs
-* No known bugs at present.
+* When Group screen is fully populated, add button covers the bottom group delete icon.
+* When editing a Task, pop keyboard covers description text box.  It requires re-opening to access.
 
 ### Aesthetic Plans
 * UI design themes for color.
 
 ### Stretch Goals
-* Add icons to Groups.
-* Add High, Medium, Low Priority buttons for Tasks.
+* Notifications when task is loaded.
+* Comments on tasks.
+* Volunteer to accept open Tasks.
+* Fix bugs.
 
 ## Team Roster
 
