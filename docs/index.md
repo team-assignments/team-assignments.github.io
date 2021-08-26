@@ -95,7 +95,6 @@ The server will keep a record of everything listed:
 * Created Tasks cannot be assigned to a User.
 * Members cannot be assigned to a Group.
 * Mark tasks as complete.
-* Adding custom Group icons.
 * Priority buttons (high, medium, low).
 
 ### Bugs
@@ -106,10 +105,11 @@ The server will keep a record of everything listed:
 * UI design themes for color.
 
 ### Stretch Goals
+* Fix bugs.
 * Notifications when task is loaded.
 * Comments on tasks.
 * Volunteer to accept open Tasks.
-* Fix bugs.
+* Adding custom Group icons.
 
 ## Team Roster
 
