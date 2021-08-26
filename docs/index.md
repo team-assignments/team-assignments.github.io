@@ -89,6 +89,7 @@ The server will keep a record of everything listed:
 * A Task can be added to the database.
 * A Group and Task can be edited.
 * A group and Task can be deleted.
+* Dialogue popup to confirm delete.
 
 ### Unimplemented
 * Created Tasks cannot be assigned to a User.
