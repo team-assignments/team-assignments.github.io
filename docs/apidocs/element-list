@@ -1,0 +1,6 @@
+edu.cnm.deepdive.teamassignments
+edu.cnm.deepdive.teamassignments.configuration
+edu.cnm.deepdive.teamassignments.controller
+edu.cnm.deepdive.teamassignments.model.dao
+edu.cnm.deepdive.teamassignments.model.entity
+edu.cnm.deepdive.teamassignments.service

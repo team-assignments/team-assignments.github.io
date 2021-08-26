@@ -65,3 +65,7 @@ order: 60
 * Formatting and UI
     * Custom images
     
+## Javadocs
+
+* Client
+* [Server](apidocs/)
