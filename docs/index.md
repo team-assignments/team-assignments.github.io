@@ -79,8 +79,31 @@ The server will keep a record of everything listed:
 ### External Services
 * Google Sign in Services
 
-
 ## [Overview](pdf/PDFOverview.pdf)
+
+
+## Current State of Project
+
+### Current State
+* The Team Assignments application can name a Group and add it to the database.
+* A Task can be added to the database.
+* A Group and Task can be edited.
+* A group and Task can be deleted.
+
+### Unimplemented
+* Created Tasks cannot be assigned to a User.
+* Members cannot be assigned to a Group.
+* Tasks not yet confirmed as complete.
+
+### Bugs
+* No known bugs at present.
+
+### Aesthetic Plans
+* UI design themes for color.
+
+### Stretch Goals
+* Add icons to Groups.
+* Add High, Medium, Low Priority buttons for Tasks.
 
 ## Team Roster
 
@@ -98,29 +121,3 @@ l2marshall@gmail.com
 ### Lee Scroggins
 lee_scroggins@yahoo.com
 [GitHub](https://github.com/lee-scroggins) 
-
-## Current State of Project
-
-### Current State
-* The Team Assignments application can name a Group and add it to the database.  The Groups will populate the spinner on the Management Tab.
-* A Task can be added to the database.
-
-### Unimplemented
-* The Home Tab display is empty.
-* The Management Tab Add Member, Delete Group, and Delete Member buttons do no function.
-* Created Tasks cannot be assigned to a Group.
-* Members cannot be assigned to a Group.
-
-### Bugs
-* The app will crash if a Group or Task has not been cleared from the application, and it has been deleted from the server and is selected on the app.
-* In Add Task, if the Task Title input is selected, the keyboard cannot be dropped to access the description box or the calendar spinners.
-* In order to populate the groups on the home screen you must close and reopen the app, in order to populate the groups on the management tab you must switch to the home tab and back to the management tab. 
-
-### Aesthetic Plans
-* UI design themes for color.
-* Shading for buttons.
-
-### Stretch Goals
-* Add icons to Groups.
-* Add High, Medium, Low Priority buttons for Tasks.
-
